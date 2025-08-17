@@ -62,5 +62,5 @@ Dataset: synthetic e-commerce sales & returns data (CSV).
 
 ---
 
-👤 Author: [Numele tău]  
-🔗 Portfolio: [link website personal / LinkedIn]
+👤 Author: Sebastian Belascu
+🔗 Portfolio: https://www.linkedin.com/in/sebastian-belascu-71baa92a5/
