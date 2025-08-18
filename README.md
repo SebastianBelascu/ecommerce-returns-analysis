@@ -46,13 +46,6 @@ Dataset: synthetic e-commerce sales & returns data (CSV).
 
 ---
 
-## 💡 Key Insights
-- High revenue in *[category X]* but also highest return rate → signals quality issue
-- Younger age groups (18–24) generate most orders, but 45–54 are more profitable
-- Cash payments show higher mismatch errors vs Credit Card → operational risk
-
----
-
 ## 🚀 Learnings
 - How to design a **SQL-to-Power BI pipeline** using star schema
 - Hands-on practice with **data cleaning in SQL** (CASE, COALESCE, NULLIF, LIKE)
